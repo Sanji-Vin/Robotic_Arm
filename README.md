@@ -50,4 +50,6 @@ The robot:
 ## License
 
 This project is open-source and available for educational purposes.
+<img width="959" height="617" alt="image" src="https://github.com/user-attachments/assets/10af9982-eadb-456c-a8a2-716f269a15fa" />
+
 
